@@ -1,0 +1,156 @@
+#title{
+  background-color: #ff4c68;
+}
+h1{
+    font-family: 'Montserrat-black',sans-serif;
+    color: #fff;
+}
+h3{
+  font-family: 'Montserrat-black',sans-serif;
+}
+
+.navbar-{
+    font-family: 'Ubuntu',sans-serif;
+    font-size:3rem;
+}
+.head{
+  color:blue;
+}
+.nav-link{
+  font-family: 'Montserrat-light',sans-serif;
+  color:#fff;
+}
+.download{
+  padding-left: 5%;
+
+
+
+}
+.img-0{
+  width: 60%;
+  transform: rotate(30deg);
+  padding-left:10%;
+
+}
+.row{
+  margin: 10% 0 10% 0;
+  padding: 0 0;
+
+}
+.para{
+  font-family: 'Montserrat-light',sans-serif;
+}
+.fas{
+  margin-bottom: 5%;
+}
+.features{
+  padding:0 10%;
+  text-align: center;
+}
+.img-1{
+  color:#ff4c68;
+}
+.img-1:hover{
+  color: orange;
+}
+.img-2{
+  margin-top:3%;
+  width:30%;
+  border-radius: 100%;
+}
+.info{
+  text-align: center;
+    background-color: #ff4c68;
+}
+.img-4{
+  padding-bottom: 5%;
+  }
+  .com{
+    width:50%;
+  }
+  .img-ger{
+    border-radius:50%;
+    margin-top: 4%;
+  }
+.ger{
+  margin-bottom:30%;
+
+}
+.img-ger{
+  width:220px;
+  height: 250px;
+}
+.button{
+  padding-top:20%;
+  padding-bottom:30%;
+}
+
+.card{
+text-align: center;
+  font-family: 'Montserrat-light',sans-serif;
+}
+.f{
+  text-align: center;
+  line-height: 3.5;
+    font-family: 'Montserrat-light',sans-serif;
+}
+.price{
+padding-left:100px;
+  padding-right:100px;
+}
+.col-md-6{
+  margin-top:30px;
+}
+.col-md-12{
+  margin-top:30px;
+}
+@media(max-width:990px){
+  .img-0{
+    transform: rotate(0deg);
+    width:60%;
+
+  }
+  #title{
+    text-align: center;
+  }
+  .f{
+    padding-left:4%;
+    padding-right:4%;
+  }
+  .img-block{
+    padding-top: 8%;
+  }
+  .fa-2x{
+    margin-top: 10%;
+    margin-bottom: 10%;
+  }
+}
+.end{
+  background-color:#ff4c68;
+  text-align: center;
+  padding-top:9%;
+  padding-left: 5%;
+  padding-right: 2%;
+  padding-bottom: 9%;
+  line-height: 10;
+  font-family: 'Montserrat-light',sans-serif;
+  color: #fff;
+
+}
+.bt-last{
+  margin-right: 2%
+}
+.footer{
+  text-align: center;
+  padding-top: 9%;
+  padding-bottom: 9%;
+}
+.btn{
+  margin-right:3%;
+}
+.fa-2x{
+  margin-right:5%;
+  margin-left:5%;
+  margin-bottom: 5%;
+  margin-top:5%;
+}
